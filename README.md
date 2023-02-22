@@ -1,5 +1,4 @@
-<p align="center"><img src="![OIP](https://user-images.githubusercontent.com/78092549/220695905-afbfaaf4-5494-4634-9dcf-dcaebdad023b.jpg)
-" height="200"></p>
+<p align="center"><img src="file:///C:/Users/ap.23000/Desktop/HEHE/Welcome%20to%20the%20Gulag.jfif" height="200"></p>
 
 <h1 align="center">Your-Local-Agency</h1>
 
