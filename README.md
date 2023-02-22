@@ -1,8 +1,8 @@
-<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="200"></p>
+<p align="center"><img src="![image](https://user-images.githubusercontent.com/78092549/220692342-127d49e2-7694-424e-9c6c-72ff5e7af9a2.png)" height="200"></p>
 
-<h1 align="center">Ultraviolet-App</h1>
+<h1 align="center">Your-Local-Agency</h1>
 
-The deployable all-in-one bundle for Ultraviolet, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!
+Welcome to the Gulag of the Digital Dimension, just like the Gulag of the Physical Dimension, it is hard to override in any way, leading to a perfect VPN web Proxy.
 
 ## Deployment
 
