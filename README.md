@@ -1,4 +1,4 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/78092549" height="200"></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/78092549" height="200" width="200"></p>
 
 <h1 align="center">Your-Local-Agency</h1>
 
