@@ -1,7 +1,7 @@
 {
   "name": "uv-app",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "Your-Local-Agency",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
@@ -11,15 +11,15 @@
     "start": "node src/index.js"
   },
   "keywords": [
-    "proxy"
+    "Your-Local-Agency"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^1.0.8-beta",
+    "@Corgi-Ops/Your-Local-Agency": "^1.0.8-beta",
     "@tomphttp/bare-server-node": "^1.2.5",
     "express": "^4.18.2",
-    "ultraviolet-static": "github:titaniumnetwork-dev/Ultraviolet-Static"
+    "Your-Local-Agency": "https://github.com/Corgi-Ops/Your-Local-Agency"
   },
   "devDependencies": {
     "eslint": "^8.32.0",
